@@ -7,3 +7,4 @@ venv/
 __pycache__/
 # staticfiles/: NUEVO — carpeta que genera collectstatic; Render la crea de nuevo en cada deploy
 staticfiles/
+respaldo_utf8.json
